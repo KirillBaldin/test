@@ -1,0 +1,3 @@
+﻿begin
+  print('Ola!')
+end.
