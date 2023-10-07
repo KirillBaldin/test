@@ -1,3 +1,3 @@
 ﻿begin
-  print('Ola!')
+  print('hello!')
 end.
